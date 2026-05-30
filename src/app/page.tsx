@@ -9,7 +9,6 @@ import BuiltForIndia from "@/components/sections/BuiltForIndia";
 import Impact from "@/components/sections/Impact";
 import TargetAudience from "@/components/sections/TargetAudience";
 import StartupJourney from "@/components/sections/StartupJourney";
-import Team from "@/components/sections/Team";
 import InvestorSection from "@/components/sections/InvestorSection";
 import FAQ from "@/components/sections/FAQ";
 import CTA from "@/components/sections/CTA";
@@ -28,7 +27,6 @@ export default function Home() {
       <Impact />
       <TargetAudience />
       <StartupJourney />
-      <Team />
       <InvestorSection />
       <FAQ />
       <CTA />
